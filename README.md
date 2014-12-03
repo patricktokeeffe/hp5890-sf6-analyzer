@@ -40,4 +40,37 @@ detector (ECD) reports a signal in proportion to the remaining SF6.[^2]
        responsable to attribute all response to SF6
 
 
+### Setup
+
+Since each analyzer is custom-built, the exact physical configuration of valves,
+switches, etc is device-dependent. Be particularly careful when referring to 
+buttons on the analyzer front control panel since the different zone heaters 
+may be associatd with different buttons on individual devices.
+
+
+1. Connect gas supply lines:
+    a. nitrogen
+    b. hydrogen
+2. Setup loop injection & pump, if not already
+3. For use with integrator (recommended):
+    a. connect instrument network cables (both)
+    b. power on integrator
+4. For analog voltage output:
+    a. plug cable into 'signal 1' slot
+    b. connect signal wires: signal/blue (+), reference/green (-)
+
+
+
+### Operation
+
+* The dryer and ECD heaters must reach temperature before operation can begin
+  so turn on the analyzer several hours before intended use.
+    * Even afer reaching temp, analyzer will complain "Not ready" because oven
+      temp is out-of-range; this is fine, operation can begin despite the 
+      warning since oven temp is not regulated
+
+
+
+
+
 
