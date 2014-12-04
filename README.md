@@ -68,8 +68,29 @@ may be associatd with different buttons on individual devices.
     * Even afer reaching temp, analyzer will complain "Not ready" because oven
       temp is out-of-range; this is fine, operation can begin despite the 
       warning since oven temp is not regulated
+* Baseline signal can be subtracted using the 'ZERO' key on analyzer front panel
+  (NOT 'ZERO' ON INTEGRATOR!): press [zero] then [enter] to update baseline to
+  current measurement, use on/off to enable/disable baseline removal
+* Overall peak size is governed by range [RANGE 2^()] and attenuation [ATT^2()]
+  BUT attenuation only affects strip chart recorders: the integrator has its
+  own attentuation capability
+    - If the largest peaks encountered produce signals which exceed +1V, then
+      increase range value by 1 (doubling dynamic range size)
 
 
+
+### Integrator integration
+
+The analyzer does output a -0.01 to +1V analog signal but using an HP integrator
+is simpler and reduces the amount of post-processing required. 
+
+* The 'ZERO' setting selects where the baseline (0 point) of plotting occurs.
+  It's a percentage so the value 5 would place the baseline 5% of the distance
+  from the left margin. THIS IS NOT THE SAME AS 'ZERO' ON THE ANALYZER FRONT 
+  PANEL!
+* Setting peak width is key to proper operation. The optimal value will depend
+  on the precise injection setup, at least, and must be determined through 
+  experimentation. Generally remains in 0.04-0.10 range.
 
 
 
