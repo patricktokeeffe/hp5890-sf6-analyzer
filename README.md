@@ -93,5 +93,22 @@ is simpler and reduces the amount of post-processing required.
   experimentation. Generally remains in 0.04-0.10 range.
 
 
+### Future work
+
+#### What if GC loop delivery pump was replaced with N2 gas?
+
+Cursory experimentation indicates using N2 as delivery gas screws up ECD signal,
+reports several hundred counts/sec higher than using ambient atmosphere.
+
+* Hydrogen flow should be reduced since O2 level in delivery stream is near-zero
+  * Variability of O2 induced by sample injection expected, magnitude unknown
+  * Higher overal ECD signal and lower O2 level makes determination of
+    break-thru more difficult & less predictable
+  * Greater overall flow rate possible vs. existing configuration with sample
+    pump (which has to-atmosphere overflow at pump outlet, therefore very low
+    delivery flow rates)
+
+-> Could compressed air (dry, with O2) be acceptable instead of N2? It would
+   result in another tank being required... 
 
 
