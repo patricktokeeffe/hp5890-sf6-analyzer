@@ -1,0 +1,18 @@
+http://ceeserver.cee.cornell.edu/mw24/Software/Default.htm
+http://ceeserver.cee.cornell.edu/mw24/Software/Runtime8/HP%205890%20data%20acquisition.htm
+http://www.willstein.com/hardware-5890.html
+http://www.willstein.com/HPFAQ.html
+http://www.srigc.com/PeakSimple.htm
+http://www.dataapex.com/
+http://www.hpmuseum.net/display_item.php?hw=668
+http://www.chromforum.org/viewtopic.php?f=2&t=25337&p=121055&hilit=5890#p121055
+http://www.chromforum.org/viewtopic.php?f=4&t=16617
+http://www.waters.com/webassets/cms/support/docs/71500044403ra.pdf?locale=en_US
+http://www.chem.agilent.com/search/?N=28&Ntk=all_with_partnumber&Ntt=03396-90335
+http://www.chromforum.org/viewtopic.php?f=2&t=24795&hilit=5890 <-- 12 pin connector
+
+----
+
+http://www.hpmuseum.net/document.php?hwfile=3311    HP 3396 Series II Integrator Using Application Programs.pdf
+http://www.hpmuseum.net/document.php?hwfile=3314    HP 5890 Dual Channel Operation - HP 3396 Series II Integrator.pdf
+http://www.chem.agilent.com/Library/usermanuals/Public/03396-90550_2nd_ed.pdf

@@ -1,1 +1,30 @@
-http://www.chem.agilent.com/Library/Support/Documents/a16029.pdf    Agilent_HP5890_Errors.pdf
+http://www.unichrom.com/hpx890/hp5890%20and%20UniChrom%20-%20eng.pdf    Gas chromatographs HP-5890 A, 5890 Series II and UniChrom.pdf
+http://www.willstein.com/Resources/HP%205890%20Cable%20Configurations.pdf    HP 5890 Cable Configurations
+http://www.meadowshplc.com/pdfs/5890.pdf    HP 5890 Series II(+) Operating Manual.pdf
+http://ipes.us/used/58901.pdf    HP 5890 Series II(+) Service Manual.pdf
+http://ipes.us/used/58902.pdf    HP 5890 Series II Quick Reference.pdf
+http://ipes.us/used/58903.pdf    HP 5890 Series II(+) Site Prep-Installation Manual.pdf
+http://ipes.us/used/58904.pdf    HP 5890 Series II(+) Reference Manual.pdf
+http://www.chem.agilent.com/en-US/Technical-Support/Instruments-Systems/Gas-Chromatography/5890/IPB/Publishingimages/a03194.jpg    5890 "W" Series Valve.jpg
+http://www.chem.agilent.com/en-US/Technical-Support/Instruments-Systems/Gas-Chromatography/5890/IPB/PlusImages/a03161.jpg    5890 19233A,19235A ECD Flow Manifold BLock Assembly.jpg
+http://www.chem.agilent.com/en-US/Technical-Support/Instruments-Systems/Gas-Chromatography/5890/IPB/PlusImages/a03199.jpg    5890 AC Power Components.jpg
+http://www.chem.agilent.com/en-US/Technical-Support/Instruments-Systems/Gas-Chromatography/5890/IPB/PlusImages/a03200.jpg    5890 AC Power, Common.jpg
+http://www.chem.agilent.com/en-US/Technical-Support/Instruments-Systems/Gas-Chromatography/5890/IPB/PlusImages/a03169.jpg    5890 Auxilary Flow Panel (19246A).jpg
+http://www.chem.agilent.com/Library/usermanuals/Public/G2739-90107_028830.pdf    Agilent 4890, 5890, 6890 Gas Chromatograph Rotary Valves Installation Guide.pdf
+http://www.chem.agilent.com/Library/usermanuals/Public/G1533-90790_031977.pdf    Agilent G1533-90790 Rebuilt Electron Capture Detector.pdf
+http://www.chem.agilent.com/Library/usermanuals/Public/19257-90107.pdf    Installation Guide Agilent GPIB,RS-232 Interface Kit Accessory 19257A.pdf
+http://www.chem.agilent.com/Library/usermanuals/Public/19242-90137.pdf    Install a Communications Interface Board (19242B) - Agilent 4890-5890 Gas Chromatographs.pdf
+http://www.chem.agilent.com/Library/quickreference/Public/5989-2200EN.pdf    Agilent Supplies for HP 5890 Gas Chromatograph Quick Reference Guide.pdf
+http://www.chem.agilent.com/Library/Support/Documents/a03150.pdf    5890 Series II Exploded Diagrams.pdf
+http://www.chem.agilent.com/Library/Support/Documents/A15282.pdf    5890 Series II Site Prep Info.pdf
+http://www.chem.agilent.com/Library/Support/Documents/a16029.pdf    5890 Errors.pdf
+http://www.chem.agilent.com/Library/Support/Documents/A15843.pdf    Electron Capture Detector Troubleshooting Tips.pdf
+http://www.chem.agilent.com/Library/Support/Documents/a16039.pdf    Troubleshooting Chromatographic Contamination - Ghost Peaks, Carryover.pdf
+http://www.chem.agilent.com/Library/Support/Documents/a16089.pdf    Troubleshooting Gas Chromatograph - Baseline Problems.pdf
+http://www.chem.agilent.com/Library/Support/Documents/a16027.pdf    Setting Flows on the 5890 Split-Splitless Inlet - Electronic Pressure Control.pdf
+http://www.chem.agilent.com/Library/Support/Documents/a16026.pdf    Setting Flows on the 5890 Split-Splitless Inlet - Manual Pneumatics.pdf
+http://www.chem.agilent.com/Library/Support/Documents/a16079.pdf    Cleaning the 5890 Split-Splitless Inlet - Split Vent Line.pdf
+http://www.chem.agilent.com/Library/Support/Documents/a16138.pdf    Installing Gas and Liquid Sampling Valves into Agilent 5890 and 6890 Gas Chromatograph.pdf
+http://www.chem.agilent.com/Library/Support/Documents/a15603.pdf    Chromatograph Troubleshooting Peak Shape Problems General.pdf
+http://www.chem.agilent.com/Library/Support/Documents/a16108.pdf    Installing the 5890 NPD-ECD Chemical Filter.pdf
+http://www.chem.agilent.com/Library/Support/Documents/a16108.pdf    Analog output settings for the 5890 and 6890 Gas Chromatograph.pdf
